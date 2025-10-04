@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("乐子玩意你被永久封禁了😂")
